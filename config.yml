@@ -1,0 +1,7 @@
+db:
+  adapter: sqlite3
+  database: db/fenix.sqlite3
+  pool: 5
+rest: http://fenix.my/host
+
+

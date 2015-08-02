@@ -1,3 +1,4 @@
 Gemfile.lock
 /.idea
 /var
+/db/*.sqlite3
